@@ -1,6 +1,6 @@
 {
   "name": "webpack-angular-source-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader for Angular which displays source files when debugging by automatically adding sourceURL (especially useful for SASS and LESS)",
   "main": "index.js",
   "scripts": {
