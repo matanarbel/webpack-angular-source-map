@@ -28,7 +28,7 @@ Example:
       "loader": "raw-loader"
     },
     {
-      "loader": "/webpack-angular-source-map"
+      "loader": "webpack-angular-source-map"
     },
     ...
   ]
