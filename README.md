@@ -9,9 +9,11 @@ When debugging, it consumes a lot of time to trace back the source file.
 This loader automatically adds /\*# sourceURL=[FILENAME] \*/ to the relevant files, and thus showing the file names when debugging.
 
 Before:
+
 ![](example-before.png)
 
 After:
+
 ![](example-after.png)
 
 ## How to use
