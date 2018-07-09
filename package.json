@@ -1,0 +1,26 @@
+{
+  "name": "webpack-angular-source-map",
+  "version": "1.0.0",
+  "description": "Webpack loader for Angular which displays source files when debugging by automatically adding sourceURL (especially useful for SASS and LESS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "angular",
+    "sass",
+    "scss",
+    "sourceurl",
+    "sourcemap",
+    "debug"
+  ],
+  "author": "matanarbel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matanarbel/webpack-angular-source-map"
+  },
+  "homepage": "https://github.com/matanarbel/webpack-angular-source-map",
+  "readmeFilename": "README.md"
+}
